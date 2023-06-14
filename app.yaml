@@ -1,4 +1,5 @@
 runtime: nodejs16
 service: app2
-ENV_VARIABLES:
+
+env_variables:
   PORT: 8080
